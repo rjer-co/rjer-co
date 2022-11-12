@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjer-co
 - 👀 I’m interested in designing happy web presences that work
-- 🌱 I’m currently learning full stack dev & canvas possibilities
+- 🌱 I’m currently learning how to spin up node.js sites and app dynamics
 - 💞️ I’m looking to collaborate on a new social network/community experience
 - 📫 Reach me at escan.dev
 
